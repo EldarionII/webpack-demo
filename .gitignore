@@ -1,0 +1,6 @@
+*.a
+*.o
+*~
+node_modules
+.idea
+.sass-cache
