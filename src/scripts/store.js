@@ -2,7 +2,7 @@ import {createStore, combineReducers} from 'redux'
 import React from 'react'
 
 const initialState = {
-    root: {message: "hi!"}
+    root: {message: "hello!"}
 };
 
 export const FINISH_INITIAL_LOADING = 'FINISH_INITIAL_LOADING';
